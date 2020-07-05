@@ -1,0 +1,340 @@
+<html>
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Oxy.Cloud - Делитесь файлами бесплатно и без ограничений</title>
+<link rel="canonical" href="https://oxy.cloud/" />
+<link rel="alternate" hreflang="ru" href="https://oxy.cloud/ru/" />
+<link rel="alternate" hreflang="en" href="https://oxy.cloud/en/" />
+<link rel="alternate" hreflang="uk" href="https://oxy.cloud/uk/" />
+<link rel="alternate" hreflang="es" href="https://oxy.cloud/es/" />
+<link rel="alternate" hreflang="hi" href="https://oxy.cloud/hi/" />
+<link rel="alternate" hreflang="de" href="https://oxy.cloud/de/" />
+
+<link rel="apple-touch-icon" href="/slake/asset/img/favicon/apple-touch-icon.png">
+<link rel="icon" href="/slake/asset/img/favicon/favicon.ico">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+
+<link rel="stylesheet" href="/slake/asset/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="/slake/asset/css/jquery.mCustomScrollbar.min.css">
+
+<link rel="stylesheet" href="/slake/asset/css/elements.css?1">
+
+<link rel="stylesheet" href="/slake/style.css?ver=5">
+
+<link rel="stylesheet" href="/slake/responsive.css?ver=5">
+<script src="/slake/asset/js/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js" integrity="sha256-1A78rJEdiWTzco6qdn3igTBv9VupN3Q1ozZNTR4WE/Y=" crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="preloader-wrapper" style="display: none;">
+<div class="preloder" style="display: none;">
+<div class="shape shape-1"></div>
+<div class="shape shape-2"></div>
+<div class="shape shape-3"></div>
+<div class="shape shape-4"></div>
+</div>
+</div>
+
+<div class="full-slider">
+<header class="header-top-area">
+<div class="container">
+ <div class="row">
+<div class="col-xl-7 col-lg-7 col-md-6 col-12">
+<div class="header-top-left">
+<ul>
+<li>
+<select name="lang" id="lang">
+<option value="ru" url="/ru/"> Русский </option>
+<option value="en" url="/en/"> Английский </option>
+<option value="uk" url="/uk/"> Украинский </option>
+<option value="es" url="/es/"> Испанский </option>
+<option value="hi" url="/hi/"> Хинди </option>
+<option value="de" url="/de/"> Немецкий </option>
+</select>
+</li>
+<li> <a href="/cdn-cgi/l/email-protection#c6a5a9abb6a7a8bf86a1aba7afaae8a5a9ab"> <span class="ti-email"></span><span class="__cf_email__" data-cfemail="8dfef8fdfde2fff9cde2f5f4a3eee1e2f8e9">[email&#160;protected]</span></a> </li>
+</ul>
+</div>
+</div>
+<div class="col-xl-5 col-lg-5 col-md-6 col-12">
+<div class="header-top-right">
+<ul>
+<li><a href="/ru/user/register">Регистрация</a></li>
+<li><a href="/ru/user/login">Вход</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+<div id="sticky-wrapper" class="sticky-wrapper" style="height: 62px;"><div class="navigation-bar stick" style="">
+<div class="container">
+<div class="row">
+<div class="col-md-2">
+<div class="logo">
+<a href="/ru/"><img src="/images/logooxy.png" alt="logo"></a>
+</div>
+</div>
+<div class="col-md-10">
+<div class="navigation">
+<ul class="list-inline text-right" id="mainmenu">
+<li><a href="/ru/affiliate_program">Партнерская программа</a></li>
+<li><a href="/ru/contacts">Связаться с нами</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+
+
+
+<section class="slider-1-bg">
+<div class="homepage-slider-1">
+<div class="single-slider-item">
+<div class="container">
+<div class="row slider-content-area">
+<div class="col-xl-7 col-lg-7 col-md-12 col-12">
+<div class="slider-content-element">
+<div class="slider-content">
+<h2 class="wow  fadeInDown" data-wow-duration="1s" data-wow-delay="0.1s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.1s; animation-name: fadeInDown;">Надежное облачное хранилище,</h2>
+<p class="wow  fadeInDown" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible;animation-duration: 1s;animation-delay: 0.3s;animation-name: fadeInDown;font-size: 20px;"> с партнерской программой </p>
+</div>
+</div>
+</div>
+<img src="/slake/asset/img/slider-img/homepage-img-1.png" alt="slider icon" class="position-img-2 wow  fadeInRight" data-wow-duration="2s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 2s; animation-delay: 0.3s; animation-name: fadeInRight;">
+<img src="/slake/asset/img/slider-img/homepage-img-2.png" alt="slider icon" class="position-img wow animated fadeInDown animated" data-wow-duration="2s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 2s; animation-delay: 0.5s; animation-name: upd;">
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+
+
+
+<section class="blog-1-area about-blog">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="section-title ">
+<h2>Почему выбирать <span>Oxy.Cloud?</span> </h2>
+<img src="/slake/asset/img/section-shape.png">
+<p>Вам больше не надо делиться своими файлами бесплатно!</p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xl-4 col-lg-4 col-md-4 col-12 ">
+<div class="single-blog-1">
+<img src="/slake/asset/img/service/about-icon-11.png" alt="section-icon">
+<h2>Быстрая загрузка</h2>
+<p>Без каких либо ограничений, навязчивой рекламы и вирусов </p>
+</div>
+</div>
+<div class="col-xl-4 col-lg-4 col-md-4 col-12 ">
+<div class="single-blog-1">
+<img src="/slake/asset/img/service/service-icon-4.png" alt="section-icon">
+<h2>Статистика</h2>
+<p>Реал-тайм статистика по вашим загрузкам и доходам</p>
+</div>
+</div>
+<div class="col-xl-4 col-lg-4 col-md-4 col-12 ">
+<div class="single-blog-1">
+<img src="/slake/asset/img/service/section-icon-3.png" alt="section-icon">
+<h2>24/7 Поддержка</h2>
+<p>Мы предоставляем круглосуточную поддержку</p>
+</div>
+</div>
+</div>
+
+
+</div>
+</section>
+
+
+<section class="homepage-2 blog-2-area">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="section-title ">
+<h2>Кому подойдет Oxy.Cloud?</h2>
+<img src="/slake/asset/img/section-shape.png" alt="section-shape">
+<p>Наш ресурс ориентирован на работу со всеми</p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-4 col-md-6 col-12">
+<div class="single-blog-1">
+<div class="text-center">
+<img src="/slake/asset/youtube.svg?ver=2" alt="section-icon">
+</div>
+<h2 class="text-center">Видеоблоггерам</h2>
+<p>Вы можете без ограничений делиться со своими подписчиками файлами, а так же зарабатывать на этом, сохраняя лояльность аудитории. С увереностью можем заявить, что мы надежное решение на рынке!</p>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-12 ">
+<div class="single-blog-1">
+<div class="text-center">
+<img src="/slake/asset/domain.svg?ver=2" alt="section-icon">
+</div>
+<h2 class="text-center">Веб-мастерам</h2>
+<p>Вы можете загружать свои файлы на oxy.cloud не опасаясь санкций и пессимизаций со стороны поисковых систем. Наш ресурс полностью соответствует нормам безопасного файлообменника. Доверяйте файлы профессионалам!</p>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 col-12 margin-center">
+<div class="single-blog-1">
+<div class="text-center">
+<img src="/slake/asset/coding.svg?ver=2" alt="section-icon">
+</div>
+<h2 class="text-center">Разработчикам</h2>
+<p>Если вы являетесь разработчиком различных приложений и вам необходимо облако в котором вы сможете безопасно и надежно хранить файлы - добро пожаловать! Так же мы готовы предоставить вам инструменты для передачи файлов.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="register-area">
+<div class="clouds">
+<img src="/slake/asset/img/cloud/cloud-6.png" alt="cloud" class="cloud1">
+<img src="/slake/asset/img/cloud/cloud-2.png" alt="cloud" class="cloud3">
+<img src="/slake/asset/img/cloud/cloud-3.png" alt="cloud" class="cloud4">
+<img src="/slake/asset/img/cloud/cloud-4.png" alt="cloud" class="cloud5">
+<img src="/slake/asset/img/cloud/cloud-5.png" alt="cloud" class="cloud2">
+<img src="/slake/asset/img/cloud/cloud-6.png" alt="cloud" class="cloud6">
+</div>
+<div class="container">
+<div class="row">
+<div class="col-lg-12 text-center">
+<div class="register-heading">
+<span>25000+ Людей доверяет Oxy.Cloud</span>
+<h2>Готов работать с Oxy.Cloud?<br> Регистрируйся сейчас.</h2>
+</div>
+<div class="register-btn">
+<a class="pricing-btn blue-btn homepage-one-all-features-btn register-btn" href="/ru/user/register">Начать сейчас</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class="power-area">
+<div class="power-area-side-shape">
+<div class="container">
+<div class="row">
+<div class="col-lg-6 col-md-12 col-xs-12">
+<div class="power-left">
+<div class="clouds">
+<img src="/slake/asset/img/cloud/cloud-1-2.png" alt="cloud" class="cloud1">
+<img src="/slake/asset/img/cloud/cloud-2-2.png" alt="cloud" class="cloud3">
+<img src="/slake/asset/img/cloud/cloud-3-2.png" alt="cloud" class="cloud4">
+<img src="/slake/asset/img/cloud/cloud-4-2.png" alt="cloud" class="cloud6">
+</div>
+<img src="/slake/asset/img/feature/feature-2-2.png" alt="image">
+ </div>
+</div>
+<div class="col-lg-6 col-md-12 col-xs-12 pr-0">
+<div class="power-right">
+<h4>#Oxy Будущее
+</h4><h2>Ваши файлы всегда под защитой</h2>
+<p>Каждый файл, размещенный на Oxy Cloud, предоставляется по протоколу SSL. Защитите посетителей своих файлов одним щелчком мыши.</p>
+<p>Наши сервера работают 99.8% в год. Ваши файлы будут доступны вам круглосуточно. Лучший результат на рынке, нам доверяют тысячи терабайт информации.</p>
+<a class="pricing-btn blue-btn" href="/ru/user/register">начать работу <i class="ti-arrow-right"></i></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+
+<section class="footer-area">
+<div class="container">
+<div class="footer-main ">
+<div class="row">
+<div class="col-lg-3 col-md-12 col-12">
+<div class="footer-single-item">
+<div class="logo">
+<a href="/ru/"><img src="/slake/asset/slice_white.png" alt="logo"></a>
+</div>
+<p>Oxy.Cloud - Имеем 6 лет опыта работы с файлами</p>
+<p><span>Email:</span>&nbsp;<a href="/cdn-cgi/l/email-protection#1c6f696c6c736e685c736465327f70736978" style="
+    color: white;
+"><span class="__cf_email__" data-cfemail="c9babcb9b9a6bbbd89a6b1b0e7aaa5a6bcad">[email&#160;protected]</span></a></p>
+</div>
+</div>
+<div class="col-lg-3 col-md-12 col-12">
+<div class="single-footer">
+<h2>Быстрые ссылки</h2>
+<div class="footer-links">
+<ul>
+<li><a href="/ru/contacts">Связаться с нами</a></li>
+<li><a href="/ru/affiliate_program">Партнерская программа</a></li>
+<li><a href="/ru/abuse">Оставить жалобу (Abuse)</a></li>
+<li><a href="/ru/rules">Правила</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-md-12 col-12">
+<div class="single-footer margin-right">
+<h2>Информация</h2>
+<div class="footer-links">
+<ul>
+<li><a href="/ru/agreement">Пользовательское соглашение</a></li>
+<li><a href="/ru/refund">Политика возврата средств</a></li>
+<li><a href="/ru/policy">Политика конфиденциальности</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-md-12 col-12">
+<div class="single-footer margin-right">
+<h2>Безопасные платежи</h2>
+<div class="footer-links">
+<img src="/images/sprite.png">
+</div>
+</div>
+</div>
+</div>
+</div>
+ 
+<div class="foter-botom">
+<div class="row">
+<div class="col-md-6 col-sm-6 col-xs-12 ">
+<img src="/images/Vertium_LTD_white.png?ver=1">
+<p> © 2018-2020<a href="/ru/">Oxy.Cloud</a>all right reserved. </p>
+</div>
+</div>
+</div>
+
+</div>
+</section>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/slake/asset/js/bootstrap.min.js"></script>
+<script src="/slake/asset/js/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="/slake/asset/js/plugins.js"></script>
+<script src="/slake/asset/js/main.js"></script>
+<script src="/slake/asset/js/ajax-mail.js"></script>
+<script src="/slake/asset/js/ajax-subscribe.js"></script>
+<script>
+      $("#lang").on("change",function(){
+         if( $( "#lang option:selected" ).attr("url")){
+           location.href=$( "#lang option:selected" ).attr("url");
+
+         }
+      });
+      </script>
+</body>
+</html>
